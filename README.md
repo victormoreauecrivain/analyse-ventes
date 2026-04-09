@@ -17,7 +17,7 @@ Transformer un fichier de données brutes en informations exploitables pour pilo
 - Analyser les tendances
 - Détecter les variations importantes
 
-![Résultats](output/Analyseur de vente 01.png)
+![Résultats](output/Analyseur_de_vente_01.png)
 
 ---
 
@@ -33,7 +33,7 @@ Transformer un fichier de données brutes en informations exploitables pour pilo
 - 📊 Visualisation :
 - Graphique du CA par mois
 
-![Graphique](output/Analyseur de vente 02.png)
+![Graphique](output/Analyseur_de_vente_02.png)
 
 ---
 
@@ -46,4 +46,4 @@ produit,ventes,prix,mois
 Livre A,120,4.99,Janvier
 Livre B,80,3.99,Février
 
-![Résumé](output/Analyseur de vente 03.png)
+![Résumé](output/Analyseur_de_vente_03.png)
